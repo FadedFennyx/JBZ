@@ -20,8 +20,8 @@ client.on('message', message => {
 
        }
 
-});
-
+})
+);
  
 
 // THIS  MUST  BE  THIS  WAY
